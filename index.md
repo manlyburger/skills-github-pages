@@ -1,3 +1,4 @@
 ---
-title: Welcome to my blog!
+title: manly burgers 
 ---
+I shall add an app for updating my game
